@@ -1,8 +1,8 @@
 import React from 'react'
-import { useLoaderData } from 'react-router-dom'
+import { useLoaderData} from 'react-router-dom'
 
 export default function ProductDetails() {
- //  use param in case of use Effect
+ 
     const product = useLoaderData()
     
     return (
