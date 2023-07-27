@@ -6,7 +6,7 @@ export default function NavBar() {
   return (
     <header>
         <nav>
-            <h1>Router</h1>
+            <h1>Vintage</h1>
             <NavLink to ='/'>Home</NavLink>
             <NavLink to="/about">About</NavLink>
             <NavLink to="info">Info</NavLink>
